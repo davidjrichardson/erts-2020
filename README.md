@@ -8,5 +8,9 @@ The firmwares used to gather data used in the paper are available under the `fir
 ## Experiment scripts
 
 ## Results
-#### Raw data
+
+#### Raw data
+
 #### Processing & Graphing
+
+## License
